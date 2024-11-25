@@ -1,7 +1,7 @@
 import javax.swing.*;
 import java.awt.*;
 
-// public class BorderLayoutExample {
+// public class LayoutExample {
 //     public static void main(String[] args) {
 //         JFrame frame = new JFrame("BorderLayout Example");
 //         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
@@ -21,7 +21,7 @@ import java.awt.*;
 //     }
 // }
 
-public class BorderLayoutExample {
+public class LayoutExample {
     // BORDER LAYOUT
     // public static void main(String[] args) {
     // JFrame frame = new JFrame("BorderLayout");
